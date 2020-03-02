@@ -1,0 +1,1 @@
+module.exports = { mongoURI: "mongodb+srv://dpalacio:NetFlix05@smallcolombia-r05vv.mongodb.net/test?retryWrites=true&w=majority" };
